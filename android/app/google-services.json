@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "733549661192",
+    "firebase_url": "https://savyasachi-7aa4c-default-rtdb.firebaseio.com",
+    "project_id": "savyasachi-7aa4c",
+    "storage_bucket": "savyasachi-7aa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733549661192:android:d1609277537d44967855bd",
+        "android_client_info": {
+          "package_name": "com.sv.savyasachi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIZujTGRi6dKwFYOL9kDfwsLsXZt9dRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
